@@ -71,10 +71,10 @@ export const SourceCodeLeakage = () => {
         <div className="py-4 flex flex-col gap-4 tracking-wide">
           <div className="grid grid-cols-2 w-[70%]">
             <div className="relative aspect-[1170/2532]">
-              <Image src="/source-1.png" fill alt="" />
+              <Image src="/chat-1.png" fill alt="" />
             </div>
             <div className="relative aspect-[1170/2532]">
-              <Image src="/source-2.png" fill alt="" />
+              <Image src="/chat-2.png" fill alt="" />
             </div>
           </div>
           <p>
