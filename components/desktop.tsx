@@ -64,7 +64,7 @@ export const Desktop = () => {
           <DialogTitle>Desktop</DialogTitle>
           <DialogDescription>
             Local Time equals to World Time???? I will personally set my time 5
-            mins earlier.
+            mins faster.
           </DialogDescription>
         </DialogHeader>
         <div className="py-4 flex flex-col gap-4 tracking-wide">
