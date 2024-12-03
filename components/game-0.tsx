@@ -44,7 +44,7 @@ export const GameZero = () => {
           </CardHeader>
           <CardContent className="flex-grow">
             <div>
-              <p>Spiciness: 🌶️🌶️</p>
+              <p>Spiciness: 🌶️🌶️🌶️🌶️</p>
               <p>Score: 200</p>
               <p>Topic: Algorithm</p>
             </div>
