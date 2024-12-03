@@ -87,9 +87,8 @@ export const SchoolSong = () => {
             <Image src="/song.png" fill alt="" />
           </div>
           <p className="bg-blue-100">
-            Hints: Do you know file extension? Surely, you can change the file
-            extension of a file in the file explorer at your fingertips. <br />a
-            refercing video if you need:{" "}
+            Hints: Do you know about file extension? <br /> Here is a
+            referencing video if you need:{" "}
             <Link
               href="https://www.youtube.com/watch?v=njxwI5Go8MQ"
               className="text-blue-500"
@@ -104,7 +103,7 @@ export const SchoolSong = () => {
           <div className="flex items-center gap-2">
             <Paperclip className="w-5 h-5" />
             <a
-              href="/school_song_video.png"
+              href="https://drive.google.com/uc?export=download&id=1tdBfTQ6Mpk-AGoiTDNkwzJOcsDMP5uHh"
               className="text-blue-500"
               download="school_song_video.png"
             >

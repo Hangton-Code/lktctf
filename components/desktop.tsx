@@ -78,8 +78,9 @@ export const Desktop = () => {
             >
               https://lktctf-windows-12.vercel.app
             </Link>
-            . To avoid forgetting the password, Jacky has set a cron reminder
-            which send him the password every day at <code>18:00:00</code>.
+            . To avoid forgetting his new password, Jacky has set a cron
+            reminder which send him the password every day at{" "}
+            <code>18:00:00</code>.
           </p>
           <iframe
             width="600"

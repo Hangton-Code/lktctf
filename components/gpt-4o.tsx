@@ -85,9 +85,9 @@ export const GPT4o = () => {
         </DialogHeader>
         <div className="py-4 flex flex-col gap-4 tracking-wide">
           <p>
-            Jeremy, a band one elite student, is struggling with a form 4 M2
-            question given by Ms Lam. Can you help him? I will give you the
-            reward if you can......
+            Jeremy, a band one elite student, is struggling with a M2 question
+            given by Ms Lam. Can you do him a favor? I will give you the reward
+            if you can do this......
           </p>
           <div className="w-full relative aspect-[1607/362]">
             <Image src="/m2.png" fill alt="" />
