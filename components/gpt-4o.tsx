@@ -85,9 +85,9 @@ export const GPT4o = () => {
         </DialogHeader>
         <div className="py-4 flex flex-col gap-4 tracking-wide">
           <p>
-            Jeremy, a band one elite student, is struggling with a M2 question
-            given by Ms Lam. Can you do him a favor? I will give you the reward
-            if you can do this......
+            Jeremy, a band one elite student, is struggling with a M2
+            differentiation question in the HW given by Ms Lam. Can you do him a
+            favor? I will give you the reward if you can do this......
           </p>
           <div className="w-full relative aspect-[1607/362]">
             <Image src="/m2.png" fill alt="" />
@@ -101,10 +101,10 @@ export const GPT4o = () => {
             Download The Image
           </Button>
           <p className="bg-blue-100">
-            Hints: GPT-4o is a powerful artifical intelligence model released by
-            OpenAI. Not only does it support image recognition, but it can also
-            solve complicated math questions....... <br />
-            How to access GPT 4o? you should have heard of{" "}
+            Hints: GPT-4o is a powerful AI model released by OpenAI that not
+            only supports image recognition but can also solve complicated
+            questions....... <br />
+            How to access GPT-4o? you should have heard of{" "}
             <Link
               href="https://poe.com"
               className="text-blue-500"

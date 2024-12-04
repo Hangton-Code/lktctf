@@ -53,7 +53,7 @@ export const SchoolSong = () => {
           <CardContent className="flex-grow">
             <div>
               <p>Spiciness: 🌶️🌶️</p>
-              <p>Score: 200</p>
+              <p>Score: 100</p>
               <p>Topic: File Format</p>
             </div>
           </CardContent>
@@ -87,8 +87,7 @@ export const SchoolSong = () => {
             <Image src="/song-2.png" fill alt="" />
           </div>
           <p className="bg-blue-100">
-            Hints: Do you know about file extension? <br /> Here is a
-            referencing video if you need:{" "}
+            Hints:{" "}
             <Link
               href="https://www.youtube.com/watch?v=njxwI5Go8MQ"
               className="text-blue-500"

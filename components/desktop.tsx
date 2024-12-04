@@ -47,8 +47,8 @@ export const Desktop = () => {
           </CardHeader>
           <CardContent className="flex-grow">
             <div>
-              <p>Spiciness: 🌶️🌶️🌶️</p>
-              <p>Score: 200</p>
+              <p>Spiciness: 🌶️🌶️</p>
+              <p>Score: 100</p>
               <p>Topic: Miscellaneous</p>
             </div>
           </CardContent>
