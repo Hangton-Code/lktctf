@@ -73,16 +73,18 @@ export const GameZero = () => {
             Step 2: Wait to receive a coin (only $1, $2, $5, and $10 coins are
             accepted).
             <br />
-            Step 3: Increase deposit by the equivalent amount of the coin.
+            Step 3: Let coin_value be the value of the coin
             <br />
-            Step 4: If deposit is more than $6, do step 5 and 6. Else, skip and
-            do step 7
+            Step 4: Increase deposit by coin_value.
             <br />
-            Step 5: Release a can of lemon tea.
+            Step 5: If deposit is equal to or more than $6, do step 6 and 7.
+            Else, skip and do step 8
             <br />
-            Step 6: Eject the remaining and do step 1.
+            Step 6: Release a can of lemon tea.
             <br />
-            Step 7: Do step 3
+            Step 7: Eject the remaining and do step 1.
+            <br />
+            Step 8: Do step 3
           </code>
           <p>
             Ha Ha. Mr Chan is a brillant engineer. I bet you can't find any
