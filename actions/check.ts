@@ -13,10 +13,10 @@ const answers: { [key: string]: string[] } = {
 const secrets: { [key: string]: string } = {
   "game-0": "Correct! 請到小賣部飲品自動售賣機自拍一張",
   "gpt-4o":
-    "Correct! 請到209電腦室自拍一張\nAnyway, please don't ever try using chatgpt for doing your homework❗This is a 反面教材❗",
+    "Correct! 請到209電腦室自拍一張\nAnyway, please don't ever try using Chatgpt for doing your homework❗This is a 反面教材❗",
   song: "Correct! 請落操場跑半圈",
   source:
-    "Correct! 請原地大嗌「我愛謝首政，會長好靚仔。我愛楊建滙，建滙我男神。」",
+    "Correct! 請原地大嗌「我愛謝首政，主席好靚仔。我愛楊建滙，建滙我男神。」",
   desktop: "Correct! 請到任何一間課室同時鐘自拍一張",
 };
 
