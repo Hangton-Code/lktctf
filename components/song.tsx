@@ -83,8 +83,8 @@ export const SchoolSong = () => {
             his computer and altered the file. It is now a <code>.png</code>{" "}
             file instead of a <code>.mp4</code> video.
           </p>
-          <div className="w-[60%] relative aspect-[575/444]">
-            <Image src="/song.png" fill alt="" />
+          <div className="relative aspect-[671/222]">
+            <Image src="/song-2.png" fill alt="" />
           </div>
           <p className="bg-blue-100">
             Hints: Do you know about file extension? <br /> Here is a

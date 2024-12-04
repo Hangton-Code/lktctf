@@ -24,6 +24,7 @@ import { FormEvent, useState } from "react";
 import { check } from "@/actions/check";
 import Image from "next/image";
 import Link from "next/link";
+import { ScrollArea } from "./ui/scroll-area";
 
 export const SourceCodeLeakage = () => {
   const [output, setOutput] = useState<string | null>(null);
@@ -69,14 +70,12 @@ export const SourceCodeLeakage = () => {
           </DialogDescription>
         </DialogHeader>
         <div className="py-4 flex flex-col gap-4 tracking-wide">
-          <div className="grid grid-cols-2 w-[70%]">
-            <div className="relative aspect-[1170/2532]">
-              <Image src="/chat-1.png" fill alt="" />
+          <p>This is the chat history between Clement and Tommy:</p>
+          <ScrollArea className="h-[400px] w-full relative rounded-md border p-4">
+            <div className=" w-[50%] relative aspect-[1170/3284]">
+              <Image src="/chat-3.png" fill alt="" />
             </div>
-            <div className="relative aspect-[1170/2532]">
-              <Image src="/chat-2.png" fill alt="" />
-            </div>
-          </div>
+          </ScrollArea>
           <p>
             Tommy still publish the website anyway:{" "}
             <Link
